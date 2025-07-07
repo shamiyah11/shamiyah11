@@ -21,7 +21,7 @@
 
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%25230077B5?style=flat&logo=linkedin&logoColor=white&color=%230a66c2)](www.linkedin.com/in/lasticageralynmaef) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maegeralyn@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%25230077B5?style=flat&logo=linkedin&logoColor=white&color=%230a66c2)](https://www.linkedin.com/in/lasticageralynmaef) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maegeralyn@gmail.com) 
 ---
 
 ### ⚡ Fun Fact
